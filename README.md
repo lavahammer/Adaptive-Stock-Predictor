@@ -16,3 +16,5 @@ Key Components of the Solution
 •	Linear Regression: A simple regression model that predicts future stock prices based on the linear trend observed in historical data.
 •	Double Exponential Smoothing: Captures trends in the data using a weighted average of past observations.
 •	Triple Exponential Smoothing: Extends double exponential smoothing by incorporating seasonal components.
+
+![alt text](https://github.com/lavahammer/Adaptive-Stock-Predictor/blob/main/Adaptive%20Stock%20Predictor%20Data%20Architecture.png)
